@@ -4,7 +4,7 @@ body {
 }
 
 .attribution { 
-  font-size: 11px; 
+  font-size: .6875rem; 
   text-align: center;
 }
 
@@ -13,26 +13,26 @@ body {
 }
 
 .qr img {
-  width: 300px;
-  height: 300px;
-  border-radius: 10px;
+  width: 18.75rem;
+  height: 18.75rem;
+  border-radius: .625rem;
 }
 
 .qr {
   text-align: center;
   background-color: white;
-  margin: 170px auto;
-  border-radius: 20px;
-  width: 300px;
-  height: 350px;
-  padding: 20px 30px 180px 30px;
+  margin: 10.625rem auto;
+  border-radius: 1.25rem;
+  width: 18.75rem;
+  height: 21.875rem;
+  padding: 1.25rem 1.875rem 11.25rem 1.875rem;
 }
 
-.qr h2 {
+.qr h1 {
   color: hsl(218, 44%, 22%);
 }
 
 .qr p{
-  font-size: 15px;
+  font-size: .9375rem;
   color: hsl(220, 15%, 55%);
 }
